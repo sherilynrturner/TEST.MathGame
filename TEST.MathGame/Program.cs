@@ -1,4 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, C# Academy! One more modification!");
+﻿MyFirstMethod()
+    {
+    //text 
+}
 
+MySecondMethod()
+    {
+    //text
+}
 
+MyThirdMethod()
+    {
+    /text
+}
